@@ -1,1 +1,1 @@
-# detective_conan_info
+This repository is collect all about Detective Conan
